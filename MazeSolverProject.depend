@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1765624217 source:c:\users\admin\desktop\maha\mazesolverproject\main.cpp
+	<iostream>
+	"Maze.h"
+	"Solver.h"
+	"Menu.h"
+
+1765639168 source:c:\users\admin\desktop\maha\mazesolverproject\src\maze.cpp
+	"Maze.h"
+	<iostream>
+
+1765641256 c:\users\admin\desktop\maha\mazesolverproject\include\maze.h
+	<vector>
+	<iostream>
+
+1765639169 c:\users\admin\desktop\maha\mazesolverproject\include\solver.h
+	<vector>
+	"Maze.h"
+	<iostream>
+
+1765639169 c:\users\admin\desktop\maha\mazesolverproject\include\menu.h
+	"Maze.h"
+	"Solver.h"
+	"PathMarker.h"
+	<iostream>
+	<vector>
+
+1765639168 c:\users\admin\desktop\maha\mazesolverproject\include\pathmarker.h
+	"Maze.h"
+	"Solver.h"
+	<vector>
+	<iostream>
+
+1765639169 source:c:\users\admin\desktop\maha\mazesolverproject\src\pathmarker.cpp
+	"PathMarker.h"
+	<iostream>
+
+1765639168 source:c:\users\admin\desktop\maha\mazesolverproject\src\solver.cpp
+	"Solver.h"
+	<algorithm>
+	"Stack.h"
+	"Queue.h"
+
+1765639169 source:c:\users\admin\desktop\maha\mazesolverproject\src\menu.cpp
+	"Menu.h"
+	"Maze.h"
+	<iostream>
+
+1765639168 source:c:\users\admin\desktop\maha\mazesolverproject\src\queue.cpp
+	"Queue.h"
+	<iostream>
+	"Stack.h"
+
+1765639168 c:\users\admin\desktop\maha\mazesolverproject\include\queue.h
+	<vector>
+	"Stack.h"
+
+1765639169 c:\users\admin\desktop\maha\mazesolverproject\include\stack.h
+	<vector>
+	"Solver.h"
+
+1765639168 source:c:\users\admin\desktop\maha\mazesolverproject\src\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1765624217 source:d:\semester 3\dsa\mazesolverproject\main.cpp
+	<iostream>
+	"Maze.h"
+	"Solver.h"
+	"Menu.h"
+
+1765641452 d:\semester 3\dsa\mazesolverproject\include\maze.h
+	<vector>
+	<iostream>
+
+1765639169 d:\semester 3\dsa\mazesolverproject\include\solver.h
+	<vector>
+	"Maze.h"
+	<iostream>
+
+1765639169 d:\semester 3\dsa\mazesolverproject\include\menu.h
+	"Maze.h"
+	"Solver.h"
+	"PathMarker.h"
+	<iostream>
+	<vector>
+
+1765639168 d:\semester 3\dsa\mazesolverproject\include\pathmarker.h
+	"Maze.h"
+	"Solver.h"
+	<vector>
+	<iostream>
+
+1765639169 source:d:\semester 3\dsa\mazesolverproject\src\menu.cpp
+	"Menu.h"
+	"Maze.h"
+	<iostream>
+
+1765639169 source:d:\semester 3\dsa\mazesolverproject\src\pathmarker.cpp
+	"PathMarker.h"
+	<iostream>
+
+1765639168 source:d:\semester 3\dsa\mazesolverproject\src\queue.cpp
+	"Queue.h"
+	<iostream>
+	"Stack.h"
+
+1765639168 d:\semester 3\dsa\mazesolverproject\include\queue.h
+	<vector>
+	"Stack.h"
+
+1765639169 d:\semester 3\dsa\mazesolverproject\include\stack.h
+	<vector>
+	"Solver.h"
+
+1765639168 source:d:\semester 3\dsa\mazesolverproject\src\solver.cpp
+	"Solver.h"
+	<algorithm>
+	"Stack.h"
+	"Queue.h"
+
+1765639168 source:d:\semester 3\dsa\mazesolverproject\src\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1765641453 source:d:\semester 3\dsa\mazesolverproject\src\maze.cpp
+	"Maze.h"
+	<iostream>
+
